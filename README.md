@@ -1,5 +1,3 @@
-##Socials
-
 #Discord
 [Flaming](https://discord.gg/flaming)
 

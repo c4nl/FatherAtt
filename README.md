@@ -1,2 +1,2 @@
-#e.rip
-[Bot](https://e.rip/bot)
+#Cockbin.lol
+[cockbin](https://cockbin.lol)
